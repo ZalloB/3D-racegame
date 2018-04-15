@@ -12,15 +12,15 @@ public class RoadController : MonoBehaviour {
 		
 	}
 
-    private void OnTriggerEnter(Collider other)
-    {
-        Debug.Log("dentrooooooooooo");
-    }
+   // private void OnTriggerEnter(Collider other)
+   // {
+   //     Debug.Log("dentro");
+   // }
 
-    private void OnTriggerExit(Collider other)
-    {
-        Debug.Log("fueraaaaaaaaaa");
-    }
+   // private void OnTriggerExit(Collider other)
+   // {
+   //     Debug.Log("fuera");
+   // }
 
 
 

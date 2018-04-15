@@ -7,6 +7,7 @@ TagManager:
   - road
   - car
   - terrain
+  - Ghost
   layers:
   - Default
   - TransparentFX
